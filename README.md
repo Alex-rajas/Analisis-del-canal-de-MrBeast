@@ -1,4 +1,5 @@
 MrBeast YouTube Channel Analysis 📊🎥
+
 This project analyzes MrBeast's YouTube videos using the YouTube API and various Python libraries. It gathers data such as video transcriptions, metrics, sentiment analysis, word counts, and more, to provide insights into the content and popularity of his videos.
 
 Technologies and Libraries Used 🛠️
