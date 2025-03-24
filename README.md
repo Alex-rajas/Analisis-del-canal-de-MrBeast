@@ -55,3 +55,6 @@ sklearn.feature_extraction.text: Converts text into numerical vectors for text a
 
 tqdm: Displays a progress bar during long tasks.
 concurrent.futures: Executes functions in parallel to improve performance.
+
+## Conclusion 🎉
+This project allows you to extract data from MrBeast's YouTube videos, process the transcriptions, and perform advanced sentiment, grammatical, and popularity analysis. Results can be visualized using charts and exported for deeper analysis.
